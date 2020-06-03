@@ -1,6 +1,6 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
-https://dev.azure.com/redhen0857Test/InitAzureFromGitHub/_apis/build/status/redhen0857.calculator?branchName=master
+[![Build Status](https://dev.azure.com/redhen0857Test/InitAzureFromGitHub/_apis/build/status/redhen0857.calculator?branchName=master)](https://dev.azure.com/redhen0857Test/InitAzureFromGitHub/_build/latest?definitionId=8&branchName=master)
 
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
